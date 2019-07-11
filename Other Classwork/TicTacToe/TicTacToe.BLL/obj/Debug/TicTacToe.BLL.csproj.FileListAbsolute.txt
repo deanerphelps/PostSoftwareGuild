@@ -1,0 +1,7 @@
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.BLL\obj\Debug\TicTacToe.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.BLL\bin\Debug\TicTacToe.BLL.dll.config
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.BLL\bin\Debug\TicTacToe.BLL.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.BLL\bin\Debug\TicTacToe.BLL.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.BLL\obj\Debug\TicTacToe.BLL.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.BLL\obj\Debug\TicTacToe.BLL.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.BLL\obj\Debug\TicTacToe.BLL.csprojAssemblyReference.cache

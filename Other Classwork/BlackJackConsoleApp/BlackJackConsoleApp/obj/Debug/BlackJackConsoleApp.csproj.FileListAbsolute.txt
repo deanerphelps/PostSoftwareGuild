@@ -1,0 +1,7 @@
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\BlackJackConsoleApp\BlackJackConsoleApp\bin\Debug\BlackJackConsoleApp.exe.config
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\BlackJackConsoleApp\BlackJackConsoleApp\bin\Debug\BlackJackConsoleApp.exe
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\BlackJackConsoleApp\BlackJackConsoleApp\bin\Debug\BlackJackConsoleApp.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\BlackJackConsoleApp\BlackJackConsoleApp\obj\Debug\BlackJackConsoleApp.csprojAssemblyReference.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\BlackJackConsoleApp\BlackJackConsoleApp\obj\Debug\BlackJackConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\BlackJackConsoleApp\BlackJackConsoleApp\obj\Debug\BlackJackConsoleApp.exe
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\BlackJackConsoleApp\BlackJackConsoleApp\obj\Debug\BlackJackConsoleApp.pdb

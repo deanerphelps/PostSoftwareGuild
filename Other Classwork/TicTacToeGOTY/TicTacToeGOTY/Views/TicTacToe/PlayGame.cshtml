@@ -1,0 +1,70 @@
+﻿@model TicTacToeGOTY.Models.Home.ChooseGameResponse
+
+@{
+    ViewBag.Title = "TicTacToe";
+}
+
+<h2>TicTacToe Online</h2>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .grid-container {
+            display: grid;
+            grid-column-gap: 5px;
+            grid-template-columns: 17% 17% 17% auto;
+            background-color: #8b9dc3;
+            padding: 20px;
+            cursor: crosshair;
+        }
+
+        .grid-item {
+            background-color: rgba(255, 255, 255, 0.9);
+            border: 2px solid rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+
+        .grid-other {
+            background-color: #ebbc42;
+            border: 2px solid rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+
+        .grid-item:hover {
+            background-color: #dfe3ee;
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-container">
+        <div class="grid-item" onclick="replace()" ;"><p>#</p></div>
+        <div class="grid-item" onclick="replace()" ;"><p>#</p></div>
+        <div class="grid-item" onclick="replace()" ;"><p>#</p></div>
+        <div class="grid-other">Your Name: @Model.Name</div>
+        <div class="grid-item" onclick="replace()" ;"><p>#</p></div>
+        <div class="grid-item" onclick="replace()" ;"><p>#</p></div>
+        <div class="grid-item" onclick="replace()" ;"><p>#</p></div>
+        <div class="grid-other">You're Playing: X</div>
+        <div class="grid-item" onclick="replace()" ;"><p>#</p></div>
+        <div class="grid-item" onclick="replace()" ;"><p>#</p></div>
+        <div class="grid-item" onclick="replace()" ;"><p>#</p></div>
+        <div class="grid-other">
+            <form action="/Home/Index" method="post">
+                <button type="submit" class="btn btn-primary">Quit Game</button>
+            </form>
+        </div>
+        <script>
+            function replace() {
+                $("p").click(function () {
+                    $(this).text("X");
+                });
+            };
+        </script>
+    </div>
+</body>
+</html>

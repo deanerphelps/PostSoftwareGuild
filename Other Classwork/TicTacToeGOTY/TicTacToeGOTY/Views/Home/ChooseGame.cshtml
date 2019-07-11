@@ -1,0 +1,30 @@
+﻿@model TicTacToeGOTY.Models.Home.ChooseGameResponse
+
+@{
+    ViewBag.Title = "Select Your Game";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Choose Your Game</title>
+</head>
+<body>
+    <h2> Welcome @Model.Name</h2>
+    <h5>Please choose your game...</h5>
+    <div>
+        @using (Html.BeginForm("PlayGame", "RockPaperScissors"))
+        {
+            @Html.Hidden("name", Model.Name)
+            <button class="btn btn-primary">Rock Paper Scissors</button>
+        }</br>
+        @using (Html.BeginForm("PlayGame", "TicTacToe"))
+        {
+            @Html.Hidden("name", Model.Name)
+            <button class="btn btn-primary">Tic Tac Toe</button>
+        }
+    </div>
+</body>
+</html>

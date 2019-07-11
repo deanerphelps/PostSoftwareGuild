@@ -1,0 +1,28 @@
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\bin\Debug\SGBank.UI.exe.config
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\bin\Debug\SGBank.UI.exe
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\bin\Debug\SGBank.UI.pdb
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\bin\Debug\SGBank.BLL.dll
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\bin\Debug\SGBank.Models.dll
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\bin\Debug\SGBank.Data.dll
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\bin\Debug\SGBank.BLL.pdb
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\bin\Debug\SGBank.Models.pdb
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\bin\Debug\SGBank.Data.pdb
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\obj\Debug\SGBank.UI.csprojAssemblyReference.cache
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\obj\Debug\SGBank.UI.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\obj\Debug\SGBank.UI.csproj.CopyComplete
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\obj\Debug\SGBank.UI.exe
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.UI\obj\Debug\SGBank.UI.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\bin\Debug\SGBank.UI.exe.config
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\bin\Debug\SGBank.UI.exe
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\bin\Debug\SGBank.UI.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\bin\Debug\SGBank.BLL.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\bin\Debug\SGBank.Models.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\bin\Debug\SGBank.Data.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\bin\Debug\SGBank.BLL.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\bin\Debug\SGBank.Models.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\bin\Debug\SGBank.Data.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\obj\Debug\SGBank.UI.csprojAssemblyReference.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\obj\Debug\SGBank.UI.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\obj\Debug\SGBank.UI.csproj.CopyComplete
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\obj\Debug\SGBank.UI.exe
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.UI\obj\Debug\SGBank.UI.pdb

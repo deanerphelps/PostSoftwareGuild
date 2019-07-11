@@ -1,0 +1,38 @@
+﻿@model TicTacToeGOTY.Models.Home.ChooseGameResponse
+
+@{
+    ViewBag.Title = "Play RPS";
+}
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Play Rock Paper Scissors</title>
+</head>
+<body>
+    <div>
+        <h1>Rock Paper Scissors</h1>
+        <h3>@Model.Name</h3>
+        <button type="button" id="ROCK" onclick="myRock()">Rock</button>
+        <button type="button" id="PAPER" onclick="myPaper()">Paper</button>
+        <button type="button" id="Scissors" onclick="myScissor()">Scissor</button>
+        <script>
+            function myRock() {
+                alert("You chose...ROCK!");
+            }
+        </script>
+        <script>
+            function myPaper() {
+                alert("You chose...PAPER!");
+            }
+        </script>
+        <script>
+            function myScissor() {
+                alert("You chose...SCISSORS!");
+            }
+        </script>
+    </div>
+    <div>
+        <p id="comp-Mode"></p>
+    </div>
+</body>
+

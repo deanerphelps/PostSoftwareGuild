@@ -1,0 +1,17 @@
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\Mastery\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\Mastery\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\Mastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\Mastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\Mastery\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\Users\Dean\Desktop\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\Dean\Desktop\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\Dean\Desktop\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Desktop\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\Dean\Desktop\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\Users\Dean\Desktop\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojAssemblyReference.cache
+C:\Users\Dean\Documents\Repos\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\Dean\Documents\Repos\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\Dean\Documents\Repos\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojAssemblyReference.cache
+C:\Users\Dean\Documents\Repos\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Documents\Repos\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\Dean\Documents\Repos\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb

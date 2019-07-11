@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Dean's Games</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <style>
+        .eye {
+            position: relative;
+            display: inline-block;
+            height: 30px;
+            width: 30px;
+            background: #CCC;
+            border-radius: 50%;
+        }
+
+            .eye:after { /*pupil*/
+                position: absolute;
+                bottom: 17px;
+                right: 10px;
+                width: 10px;
+                height: 10px;
+                background: #000;
+                content: " ";
+                border-radius: 50%;
+            }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+                <p style="height:50px;">
+                    <p class="move-area">
+                        <p class='.container'>
+                            <p class='eye'></p>
+                            <p class='eye'></p>
+                        </p>
+                    </p></br>
+                </p>
+            </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav"></ul>
+                </div>
+            </div>
+            
+        </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Dean's Game of the Year Editions</p>
+        </footer>
+    </div>
+    <script>
+        $(document).mousemove(function (event) {
+            var eye = $(".eye");
+            var x = (eye.offset().left) + (eye.width() / 2);
+            var y = (eye.offset().top) + (eye.height() / 2);
+            var rad = Math.atan2(event.pageX - x, event.pageY - y);
+            var rot = (rad * (180 / Math.PI) * -1) + 180;
+            eye.css({
+                '-webkit-transform': 'rotate(' + rot + 'deg)',
+                '-moz-transform': 'rotate(' + rot + 'deg)',
+                '-ms-transform': 'rotate(' + rot + 'deg)',
+                'transform': 'rotate(' + rot + 'deg)'
+            });
+        });
+    </script>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

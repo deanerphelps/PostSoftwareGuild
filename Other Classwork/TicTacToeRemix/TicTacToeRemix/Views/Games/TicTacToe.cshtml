@@ -1,0 +1,71 @@
+﻿@model TicTacToeRemix.Models.Player
+
+@{
+    ViewBag.Title = "TicTacToe";
+}
+
+<h2>TicTacToe Online</h2>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .grid-container {
+            display: grid;
+            grid-column-gap: 5px;
+            grid-template-columns: 17% 17% 17% auto;
+            background-color: #8b9dc3;
+            padding: 20px;
+        }
+        .grid-item {
+            background-color: rgba(255, 255, 255, 0.9);
+            border: 2px solid rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+        .grid-other {
+            background-color: #ebbc42;
+            border: 2px solid rgba(0, 0, 0, 0.8);
+            padding: 20px;
+            font-size: 30px;
+            text-align: center;
+        }
+            .grid-item:hover {
+                background-color: #dfe3ee;
+            }
+    </style>
+</head>
+<body>
+    <div class="grid-container">
+        <div class="grid-item" onclick="location.href='#';" style="cursor: pointer;">#</div>
+        <div class="grid-item" onclick="location.href='#';" style="cursor: pointer;">#</div>
+        <div class="grid-item" onclick="location.href='#';" style="cursor: pointer;">#</div>
+        <div class="grid-other">You Name: @Model.Name</div>
+        <div class="grid-item" onclick="location.href='#';" style="cursor: pointer;">#</div>
+        <div class="grid-item" onclick="location.href='#';" style="cursor: pointer;">#</div>
+        <div class="grid-item" onclick="location.href='#';" style="cursor: pointer;">#</div>
+        <div class="grid-other">Your Playing: @Model.Option</div>
+        <div class="grid-item" onclick="location.href='#';" style="cursor: pointer;">#</div>
+        <div class="grid-item" onclick="location.href='#';" style="cursor: pointer;">#</div>
+        <div class="grid-item" onclick="location.href='#';" style="cursor: pointer;">#</div>
+        <div class="grid-other">
+            <form action="/Home/Index" method="post">
+                <button type="submit" class="btn btn-primary">Quit Game</button>
+            </form>
+        </div>
+        <form action="/Games/TicTacToe/" method="post">
+            <p>Enter Your Name and Option</p>
+            <div class="form-group">
+                <label>Name: </label>
+                <input type="text" class="form-control" name="name" />
+            </div>
+            <div class="form-group">
+                <label>Option: </label>
+                <input type="text" class="form-control" name="option" />
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,Tax,Total
+1,Dean,KY,6.00,Wood,90.00,4.11,6.89,2200.56,918.00,70.97,4450.90

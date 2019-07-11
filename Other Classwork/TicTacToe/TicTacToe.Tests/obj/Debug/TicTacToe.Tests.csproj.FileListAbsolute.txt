@@ -1,0 +1,7 @@
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.Tests\bin\Debug\TicTacToe.Tests.dll.config
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.Tests\bin\Debug\TicTacToe.Tests.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.Tests\bin\Debug\TicTacToe.Tests.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.Tests\obj\Debug\TicTacToe.Tests.csprojAssemblyReference.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.Tests\obj\Debug\TicTacToe.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.Tests\obj\Debug\TicTacToe.Tests.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Classwork\TicTacToe\TicTacToe.Tests\obj\Debug\TicTacToe.Tests.pdb

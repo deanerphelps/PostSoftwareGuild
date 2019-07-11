@@ -1,0 +1,22 @@
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csprojAssemblyReference.cache
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CopyComplete
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\Dean\Desktop\Class Stuff\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csprojAssemblyReference.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M4\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CopyComplete

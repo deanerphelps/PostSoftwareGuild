@@ -1,0 +1,33 @@
+C:\Users\Dean\Desktop\.net projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Dean\Desktop\.net projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Dean\Desktop\.net projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Dean\Desktop\.net projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Dean\Desktop\.net projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Desktop\.net projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Dean\Desktop\.net projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\Dean\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Dean\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Dean\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Dean\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Dean\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Dean\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\Dean\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.manifest
+C:\Users\Dean\Desktop\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.application
+C:\Users\Dean\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe.manifest
+C:\Users\Dean\Desktop\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.application
+C:\Users\Dean\Desktop\.net projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.manifest
+C:\Users\Dean\Desktop\.net projects\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.application
+C:\Users\Dean\Desktop\.net projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe.manifest
+C:\Users\Dean\Desktop\.net projects\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.application
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M1\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M1\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.manifest
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M1\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.application
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M1\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M1\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M1\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M1\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M1\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe.manifest
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M1\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.application
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M1\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Dean\Documents\Repos\dotnet-lou-0419-deanerphelps\Summatives\OOP\M1\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
